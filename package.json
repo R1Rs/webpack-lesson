@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack --mode production",
     "dev": "webpack --mode development",
-    "postpublish": "git push origin --all"
+    "push": "git push origin --all"
   },
   "repository": {
     "type": "git",
